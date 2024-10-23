@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am alfredlamowen and I am currently studying BSc Mathematics at Queen Mary, University of London
 <!--
 **alfredlamowen/alfredlamowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
